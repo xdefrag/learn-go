@@ -1,0 +1,30 @@
+#+title: Learn Go
+#+author: Stanislaw Karkavin
+#+email: me@xdefrag.dev
+#+language: en
+#+description: An opinionated list of resources for learning Go.
+
+** Must read
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://tour.golang.org/welcome/1][A Tour of Go]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- [[https://gobyexample.com/][Go by Example]]
+- [[http://tmrts.com/go-patterns][Go Patterns]]
+- [[https://blog.golang.org/][Go blog]]
+- [[https://dave.cheney.net/][Dave Cheney's blog]]
+- [[https://commandcenter.blogspot.com/][Rob Pike's blog]]
+
+** Must watch
+- [[https://youtu.be/rFejpH_tAHM][Rob Pike - Simplicity is Complicated]]
+- [[https://youtu.be/cN_DpYBzKso][Rob Pike - Concurrency Is Not Parallelism]]
+- [[https://youtu.be/MzTcsI6tn-0][Brian Ketelsen - Go best practices]]
+- [[https://youtu.be/PTE4VJIdHPg][Peter Bourgon - Best Practices for Industrial Programming]]
+- [[https://youtu.be/5DVV36uqQ4E][Mat Ryer - Things in Go I Never Use]]
+- [[https://youtu.be/29LLRKIL_TI][Steve Francia - 7 common mistakes in Go and when to avoid them]]
+- [[https://youtu.be/tIm8UkSf6RA][Mat Ryer - Building APIs]]
+- [[https://youtu.be/afSiVelXDTQ][Filippo Valsorda - Asynchronous Networking Patterns]]
+- [[https://youtu.be/a6oP24CSdUg][Chew Choon Keat - TDD for those who don't need it]]
+- [[https://youtu.be/TGg6cc0QCzw][Pawel Slomka - Documenting Go Code with Beautiful Tests]]
+- [[https://www.youtube.com/watch?v=EOpj9aZ8Kfo][Mat Ryer - The Art of Testing]]
+- [[https://youtu.be/UKe5sX1dZ0k][Dave Cheney - Absolute Unit Test]]
+- [[https://youtu.be/yszygk1cpEc][Mitchell Hashimoto - Advanced Testing with Go]]
