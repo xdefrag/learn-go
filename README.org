@@ -9,10 +9,13 @@
 - [[https://tour.golang.org/welcome/1][A Tour of Go]]
 - [[https://golang.org/doc/effective_go.html][Effective Go]]
 - [[https://gobyexample.com/][Go by Example]]
-- [[http://tmrts.com/go-patterns][Go Patterns]]
 - [[https://blog.golang.org/][Go blog]]
 - [[https://dave.cheney.net/][Dave Cheney's blog]]
 - [[https://commandcenter.blogspot.com/][Rob Pike's blog]]
+- [[http://tmrts.com/go-patterns][Go Patterns]]
+- [[https://github.com/cristaloleg/go-advice][Go Advice]]
+- [[https://github.com/uber-go/guide/blob/master/style.md][The Uber Go Style Guide]]
+- [[https://github.com/golang/go/wiki/CodeReviewComments][Code Review Comments]]
 
 ** Must watch
 - [[https://youtu.be/rFejpH_tAHM][Rob Pike - Simplicity is Complicated]]
@@ -28,3 +31,11 @@
 - [[https://www.youtube.com/watch?v=EOpj9aZ8Kfo][Mat Ryer - The Art of Testing]]
 - [[https://youtu.be/UKe5sX1dZ0k][Dave Cheney - Absolute Unit Test]]
 - [[https://youtu.be/yszygk1cpEc][Mitchell Hashimoto - Advanced Testing with Go]]
+
+** Must use
+- [[https://github.com/golangci/golangci-lint][GolangCI Lint]]
+- [[https://github.com/stretchr/testify][Testify]]
+- [[https://github.com/golang/mock][GoMock]]
+- [[https://github.com/go-delve/delve][Delve]]
+- [[https://github.com/cweill/gotests][GoTests]]
+- [[https://github.com/motemen/gore][Gore]]
