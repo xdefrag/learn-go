@@ -37,6 +37,7 @@
 ** Must watch
 - [[https://youtu.be/rFejpH_tAHM][Rob Pike - Simplicity is Complicated]]
 - [[https://youtu.be/cN_DpYBzKso][Rob Pike - Concurrency Is Not Parallelism]]
+- [[https://youtu.be/PAAkCSZUG1c][Rob Pike - Go Proverbs]]
 - [[https://youtu.be/MzTcsI6tn-0][Brian Ketelsen - Go best practices]]
 - [[https://youtu.be/PTE4VJIdHPg][Peter Bourgon - Best Practices for Industrial Programming]]
 - [[https://youtu.be/5DVV36uqQ4E][Mat Ryer - Things in Go I Never Use]]
