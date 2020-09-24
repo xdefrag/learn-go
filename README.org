@@ -51,9 +51,9 @@
 - [[https://youtu.be/yszygk1cpEc][Mitchell Hashimoto - Advanced Testing with Go]]
 
 ** Must use
-- [[https://github.com/golangci/golangci-lint][GolangCI Lint]]
-- [[https://github.com/stretchr/testify][Testify]]
+- [[https://github.com/golangci/golangci-lint][GolangCI Lint]] or [[https://golang.org/cmd/vet/][vet]] + [[https://pkg.go.dev/golang.org/x/tools/cmd/goimports][goimports]]
+- [[https://github.com/stretchr/testify][Testify]] (assert package only) or [[https://github.com/matryer/is][IS]]
 - [[https://github.com/golang/mock][GoMock]]
-- [[https://github.com/go-delve/delve][Delve]]
+- [[https://github.com/go-delve/delve][Delve]] or [[https://www.gnu.org/software/gdb/][GDB]]
 - [[https://github.com/cweill/gotests][GoTests]]
 - [[https://github.com/motemen/gore][Gore]]
