@@ -4,6 +4,8 @@
 #+language: en
 #+description: An opinionated list of resources for learning Go.
 
+Moved to gemini://xdefrag.dev/learn-go.gmi
+
 ** Must read
 - [[https://golang.org/doc/code.html][How to Write Go Code]]
 - [[https://tour.golang.org/welcome/1][A Tour of Go]]
